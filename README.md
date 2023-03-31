@@ -40,7 +40,7 @@ My chosen API for this project is **https://api.weatherapi.com/v1/current.json?k
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src= https://i.imgur.com/XMeXz1v.mp4 />
+<img src= https://i.imgur.com/Sf6l7od.gif />
 
 GIF created with **Kap**
 
